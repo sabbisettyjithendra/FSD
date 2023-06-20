@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Friends with hard core </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body style="background-color: rgb(237, 184, 115);">
+    <header>
+     <h1>Friends are forever</h1>
+    </header>
+    <img src="C:\Users\lahari\Downloads\f.webp" alt="Friends" width="300" height="300" class="center">
+    <header>
+      <h1>Friends details</h1>
+    </header>
+    <main>
+      <section class="friend-list">
+        <hi> friend-list</hi>
+        <ul>
+          <li><a href="#friend1">satya</a></li>
+          <li><a href="#friend2">muthy</a></li>
+          <li><a href="#friend3">guru</a></li>
+        </ul>
+      </section>
+      <section class="center">
+        <div id="friend1" class="friend">
+          <h2>sata</h2>
+          <p>Details of satya</p>
+          <p>name:satya</p>
+          <p>gender:male</p>
+          <p>living:AP</p>
+        </div>
+        <div id="friend2" class="muthy">
+          <h2>muthy</h2>
+          <p>Details of muthy </p>
+          <p>name:muthy</p>
+          <p>gender:male</p>
+          <p>living:AP</p>
+        </div>
+        <div id="friend3" class="guru">
+          <h2>guru</h2>
+          <p>Details about guru</p>
+          <p>name:guru</p>
+          <p>gender:male</p>
+          <p>living:Ap</p>
+        </div>
+      </section>
+      <div>
+        <table>
+          <tr>
+            <th>name</th>
+            <th>gender</th>
+            <th>living</th>
+          </tr>
+          <tr>
+            <td>Alfreds Futterkiste</td>
+            <td>male</td>
+            <td>Germany</td>
+          </tr>
+          <tr>
+            <td>Moctezuma</td>
+            <td>male</td>
+            <td>Mexico</td>
+          </tr>
+          <tr>
+            <td>joun</td>
+            <td>male</td>
+            <td>invisible</td>
+          </tr>         
+        </table>
+      </div>
+    </main>
+  </body>
+</html>
